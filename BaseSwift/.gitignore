@@ -1,0 +1,5 @@
+/xcuserdata/*
+*.xcuserstate
+Pods/
+R.generated.swift
+.DS_Store
